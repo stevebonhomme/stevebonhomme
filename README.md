@@ -6,10 +6,8 @@ I'm Steve! Its so nice to make your acquiantance! The public repositories in my 
 
 This is a list of my most recent activity on GitHub.
 
-<!--RECENT_ACTIVITY:start-->
-
-<!--RECENT_ACTIVITY:last_update-->
-
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -20,4 +18,4 @@ This is a list of my most recent activity on GitHub.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**
+
