@@ -12,3 +12,8 @@ I'm Steve! Its so nice to make your acquiantance! The public repositories in my 
 - 📫 How to reach me: Linkedin, email, or Twitter
 - 😄 Pronouns: co/code/cos/codes/codeself
 - ⚡ Fun fact: When im not coding, helping a friend, I like to workout or watch a good scifi movie!
+
+## Featured Repositories
+* [hugo-cms](https://github.com/stevebonhomme/hugo-cms/blob/master/README.md) 
+This is a small business template built with Victor Hugo and Netlify CMS, modified for my branding and content.
+Powers my site [SBDEV](https://stevebonhomme.dev)
