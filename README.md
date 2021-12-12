@@ -17,4 +17,4 @@ I'm Steve! Its so nice to make your acquiantance! The public repositories in my 
 * [hugo-cms](https://github.com/stevebonhomme/hugo-cms):  
 This is a small business template built with Victor Hugo and Netlify CMS, modified branding and content for [stevebonhomme.dev](https://stevebonhomme.dev)
 * [jekyll-wilt](https://github.com/stevebonhomme/jekyll-wilt):
-This is the source code for my [Minima](https://github.com/jekyll/minima) themed, [Jekyll](https://jekyllrb.com) and [Vercel](https://vercel.com) powered site [wilt](https://wilt.dev) with code examples of what I learn on a daily basis.
+This is the source code for my [Clean Blog Jekyll](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll) themed, [Jekyll](https://jekyllrb.com) and [Vercel](https://vercel.com) powered site [wilt](https://wilt.dev) with code examples of what I learn on a daily basis.
